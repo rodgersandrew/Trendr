@@ -1,0 +1,8 @@
+tweepy
+boto3
+pytrends
+requests
+newsapi-python
+vaderSentiment
+scrapy
+scrapydo

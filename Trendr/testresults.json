@@ -1,0 +1,43 @@
+{
+  "1": {
+    "topic": "Weather/radar",
+    "urls": {},
+    "date": "2019-11-26"
+  },
+  "2": {
+    "topic": "Albania",
+    "urls": {
+      "1": {
+        "source": "The New York Times",
+        "title": "Powerful Earthquake Strikes Albania",
+        "url": "https://www.nytimes.com/2019/11/25/world/europe/albania-earthquake-tirana.html",
+        "sentiment": -0.9795
+      },
+      "2": {
+        "source": "The New York Times",
+        "title": "Your Tuesday Briefing",
+        "url": "https://www.nytimes.com/2019/11/26/briefing/impeachment-amazon-albania.html"
+      },
+      "3": {
+        "source": "BBC News",
+        "title": "Albania: Powerful 6.4 magnitude earthquake hits Tirana",
+        "url": "https://www.bbc.co.uk/news/world-europe-50555776",
+        "sentiment": -0.8884
+      },
+      "4": {
+        "source": "Yahoo.com",
+        "title": "Powerful quake kills 13 in Albania as buildings bury residents",
+        "url": "https://news.yahoo.com/earthquake-magnitude-6-4-rocks-032442695.html",
+        "sentiment": -0.9783
+      },
+      "5": {
+        "source": "Yahoo.com",
+        "title": "Nine dead, 600 injured as powerful earthquake jolts Albania",
+        "url": "https://news.yahoo.com/four-dead-several-injured-powerful-earthquake-rocks-albania-070000512.html",
+        "sentiment": -0.9888
+      }
+    },
+    "avg_sentiment": "-0.95875",
+    "date": "2019-11-26"
+  }
+}
